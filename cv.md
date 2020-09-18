@@ -63,13 +63,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Certifications**
 ---------
-* IELTS 6.0
-* MTA: Introduction to Programming Using JavaScript
+    * IELTS 6.0
+    * MTA: Introduction to Programming Using JavaScript
 
 **Courses**
 ---------
-	* Course 1
-	* Course 2
+    * The Complete Web Developer in 2020: Zero to Mastery
+    * The Complete Junior to Senior Web Developer Roadmap (2020)
+    * JavaScript Web Projects: 20 Projects to Build Your Portfolio
+
 
 **Languages**
 ----------------------------------------
