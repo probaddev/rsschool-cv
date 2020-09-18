@@ -1,7 +1,8 @@
 Kirill Galkin
-===================================
-**Contact Info**
-----------------------------------
+=============
+
+**Conatact Info**
+-----------------------------------
 * [Gmail](probaddev@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/probaddev/)
 
@@ -62,8 +63,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Certifications**
 ---------
-	* Certificat 1
-	* Certificat 2
+* IELTS 6.0
+* MTA: Introduction to Programming Using JavaScript
 
 **Courses**
 ---------
