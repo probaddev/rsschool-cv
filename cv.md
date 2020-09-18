@@ -1,6 +1,4 @@
-Kirill Galkin
-=============
-
+# **Kirill Galkin**
 **Contact Info**
 -----------------------------------
 * [Gmail](probaddev@gmail.com)
